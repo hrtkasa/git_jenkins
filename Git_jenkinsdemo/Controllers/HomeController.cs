@@ -22,7 +22,7 @@ namespace Git_jenkinsdemo.Controllers
         {
             return View();
         }
-        //
+        
 
         public IActionResult Privacy()
         {
